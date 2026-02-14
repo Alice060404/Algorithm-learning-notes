@@ -1,4 +1,4 @@
-[MindMap](./Overall.png)
+[MindMap](./summary.png)
 
 
 # 搜索算法体系与选型策略 (Search Algorithms & Selection Guide)
